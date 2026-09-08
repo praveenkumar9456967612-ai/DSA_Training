@@ -8,5 +8,8 @@ int main(){
     for(i=0; i<=4; i++){
         cout<<name<<endl;
     }
-    return 0;
+    return 0; 
+
+
+    // you print the name 5 times using for loop
 }
