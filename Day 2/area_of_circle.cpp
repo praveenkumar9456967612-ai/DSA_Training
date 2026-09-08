@@ -9,5 +9,6 @@ int main(){
 
      area=3.14*r*r;
     cout<<"area of the circle: "<<area<<endl;
+    //we found the area of circle
     return 0;
 }
