@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//Palindrome number
 int main(){
     int n=121;
     int temp = n;
