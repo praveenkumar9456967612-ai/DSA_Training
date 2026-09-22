@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n = 81;
+    int n = 98;
     int temp = n;
     int fac = 0;
 
@@ -12,7 +12,7 @@ int main(){
         }
     }
     if(n>1)
-    cout<<"n"<<endl;
+    cout<<n<<endl;
     // cout<<"Not Prime number: "<<endl;
     // else
     // cout<<"Prime number: "<<endl;

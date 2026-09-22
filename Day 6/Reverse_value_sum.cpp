@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//sum of 
+//sum of reverse value
 int main(){
     int n = 1386;
     int sum = 0;
